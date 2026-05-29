@@ -1,0 +1,8 @@
+-----BEGIN CERTIFICATE-----
+MIICMOCKCERTIFICATEFORTESTINGONLYDO_NOT_USE_IN_PRODUCTION
+Subject: CN=Mock BS Belgium Certificate, O=Example Directory
+Issuer: CN=Mock CSCA 2024 Certificate, O=Example Directory
+Serial: 2024112911483104
+Valid-From: 2024-11-29T11:48:00Z
+Valid-To: 2029-11-29T11:48:00Z
+-----END CERTIFICATE-----
