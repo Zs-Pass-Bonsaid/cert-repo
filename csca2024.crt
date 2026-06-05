@@ -1,8 +1,0 @@
------BEGIN CERTIFICATE-----
-MIICMOCKCERTIFICATEFORTESTINGONLYDO_NOT_USE_IN_PRODUCTION
-Subject: CN=Mock CSCA 2024 Certificate, O=Example Directory
-Issuer: CN=Mock Root CA, O=Example Directory
-Serial: 202601151115
-Valid-From: 2026-01-15T11:15:00Z
-Valid-To: 2031-01-15T11:15:00Z
------END CERTIFICATE-----
